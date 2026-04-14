@@ -27,6 +27,7 @@ Smoke tests run automatically on code updates, producing detailed and readable r
 
 🎥 [Watch Demo on Macbook Setup](https://drive.google.com/file/d/1hFaqkxQOFtTYd0xEHCH_8lvwZparJ0y1/view?usp=drive_link)
 🎥 [Watch Demo on iPad](https://drive.google.com/file/d/14oMmJhqaBG3sGJ8LLYIkwNgNWmKm_HdT/view?usp=drive_link)
+📊 Test Reports (Allure)
 📄 [View Allure Report-Overview](https://drive.google.com/file/d/1Tf8hLAkZwN7NzAoyVroxauisXe1-gvUk/view?usp=drive_link)
 📄 [View Allure Report-Details](https://drive.google.com/file/d/1ZpdhvmjeC74zaFhAL0sBS4l-mYBoeW87/view?usp=drive_link)
 
