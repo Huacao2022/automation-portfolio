@@ -42,9 +42,7 @@ Demonstrations Include:
 ⚙️ Key Highlights:
 
 Handles iOS-specific challenges such as timing issues, retries, and dynamic UI interactions
-
 Provides structured and maintainable test automation framework
-
 Generates clear and actionable test reports using Allure
 
 ---
