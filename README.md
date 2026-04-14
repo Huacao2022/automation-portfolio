@@ -37,10 +37,12 @@ Mobile automation using WebdriverIO and Appium on a real iPad.
 Two demos demonstrate:  
 1. Setup and framework execution on Macbook  
 2. Test execution on the actual device
-3. Allure report in an overview
-4. Allure report in a detailed test
+3. Allure reporting (overview and detailed test results)
 
-Framework handles iOS-specific challenges such as timing issues, retries, and interactive components.
+⚙️ Key Highlights:
+Handles iOS-specific challenges such as timing issues, retries, and dynamic UI interactions
+Provides structured and maintainable test automation framework
+Generates clear and actionable test reports using Allure
 
 ---
 
