@@ -34,14 +34,17 @@ Smoke tests run automatically on code updates, producing detailed and readable r
 📄 [View Allure Report-Details](https://drive.google.com/file/d/1ZpdhvmjeC74zaFhAL0sBS4l-mYBoeW87/view?usp=drive_link)
 
 Mobile automation using WebdriverIO and Appium on a real iPad.  
-Two demos demonstrate:  
+Demonstrations Include:
 1. Setup and framework execution on Macbook  
 2. Test execution on the actual device
 3. Allure reporting (overview and detailed test results)
 
 ⚙️ Key Highlights:
+
 Handles iOS-specific challenges such as timing issues, retries, and dynamic UI interactions
+
 Provides structured and maintainable test automation framework
+
 Generates clear and actionable test reports using Allure
 
 ---
